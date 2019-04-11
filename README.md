@@ -1,2 +1,2 @@
 # test
-Hello
+This is Gregiboy's first Git project.
